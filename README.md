@@ -31,7 +31,7 @@ The course covers the core concepts and practical configurations involved in Okt
 ## Hands-On Labs & Practice
 
 ### 1. Okta Developer Account Setup
-- Created developer tenant at `dev-[subdomain].okta.com`
+- Created developer tenant at `[dev-91416443-admin.okta.com]`
 - Explored Admin Console: Dashboard, Directory, Security, Applications
 
 ### 2. User & Group Management
